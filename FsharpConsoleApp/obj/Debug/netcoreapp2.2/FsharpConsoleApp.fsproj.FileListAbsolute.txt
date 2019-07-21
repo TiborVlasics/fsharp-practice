@@ -1,0 +1,10 @@
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/bin/Debug/netcoreapp2.2/FsharpConsoleApp.deps.json
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/bin/Debug/netcoreapp2.2/FsharpConsoleApp.runtimeconfig.json
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/bin/Debug/netcoreapp2.2/FsharpConsoleApp.runtimeconfig.dev.json
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/bin/Debug/netcoreapp2.2/FsharpConsoleApp.dll
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/bin/Debug/netcoreapp2.2/FsharpConsoleApp.pdb
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/Debug/netcoreapp2.2/FsharpConsoleApp.fsprojAssemblyReference.cache
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/Debug/netcoreapp2.2/FsharpConsoleApp.AssemblyInfoInputs.cache
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/Debug/netcoreapp2.2/FsharpConsoleApp.AssemblyInfo.fs
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/Debug/netcoreapp2.2/FsharpConsoleApp.dll
+/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/Debug/netcoreapp2.2/FsharpConsoleApp.pdb

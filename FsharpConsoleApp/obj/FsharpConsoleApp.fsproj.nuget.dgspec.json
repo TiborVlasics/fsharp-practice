@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/FsharpConsoleApp.fsproj": {}
+  },
+  "projects": {
+    "/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/FsharpConsoleApp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/FsharpConsoleApp.fsproj",
+        "projectName": "FsharpConsoleApp",
+        "projectPath": "/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/FsharpConsoleApp.fsproj",
+        "packagesPath": "/home/tibi/.nuget/packages/",
+        "outputPath": "/home/tibi/RiderProjects/FsharpConsoleApp/FsharpConsoleApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/tibi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
